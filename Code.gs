@@ -7,6 +7,7 @@
 * https://medium.com/@cafraser/how-to-download-public-youtube-captions-in-xml-b4041a0f9352
 * https://github.com/syzer/youtube-captions-scraper
 * https://developers.google.com/youtube/v3/docs/captions/download
+* https://www.reddit.com/r/GoogleAppsScript/comments/hgrbap/is_there_a_way_to_import_caption_from_youtube/
 */
 
 // **********************************************************************************************************************************************************
